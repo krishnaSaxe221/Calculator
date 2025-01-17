@@ -10,7 +10,10 @@ public class addition {
 
         System.out.println("Enter the second number:");
         double num2 = scanner.nextDouble();
-        System.out.println(num1+num2);
+
+        System.out.println("Enter the third number:");
+        double num3 = scanner.nextDouble();
+        System.out.println(num1+num2+num3);
 
 }
 
